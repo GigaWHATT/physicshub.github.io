@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths.ignore:
-      - 'C:\Users\User\OpenSource\physicshub.github.io\.all-contributorsrc'
+      - '.all-contributorsrc'
   workflow_dispatch:
 
 jobs:
